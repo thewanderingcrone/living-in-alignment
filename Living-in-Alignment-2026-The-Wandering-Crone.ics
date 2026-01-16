@@ -473,8 +473,8 @@ BEGIN:VEVENT
 UID:sun-enters-aquarius-2026@thewanderingcrone
 DTSTAMP:20260116T000000Z
 SUMMARY:Sun enters Aquarius
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
 DESCRIPTION:Attention moves toward innovation, community, and new ways of thinking. Notice where change is asking to be integrated thoughtfully.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -503,8 +503,8 @@ BEGIN:VEVENT
 UID:sun-enters-taurus-2026@thewanderingcrone
 DTSTAMP:20260116T000000Z
 SUMMARY:Sun enters Taurus
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
 DESCRIPTION:Focus moves to stability, resources, and sustainability. Slow down and tend what you want to last.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -513,8 +513,8 @@ BEGIN:VEVENT
 UID:sun-enters-gemini-2026@thewanderingcrone
 DTSTAMP:20260116T000000Z
 SUMMARY:Sun enters Gemini
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
 DESCRIPTION:Attention turns toward communication, learning, and movement. Stay curious, gather information, and notice where flexibility is needed.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -543,8 +543,8 @@ BEGIN:VEVENT
 UID:sun-enters-virgo-2026@thewanderingcrone
 DTSTAMP:20260116T000000Z
 SUMMARY:Sun enters Virgo
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
 DESCRIPTION:Focus sharpens around organization, health, and refinement. This is a practical time to adjust routines and improve what’s already in motion.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -553,8 +553,8 @@ BEGIN:VEVENT
 UID:sun-enters-libra-2026@thewanderingcrone
 DTSTAMP:20260116T000000Z
 SUMMARY:Sun enters Libra
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
 DESCRIPTION:Attention turns to balance, relationships, and shared decisions. Consider where recalibration and mutual understanding are needed.
 TRANSP:TRANSPARENT
 END:VEVENT
