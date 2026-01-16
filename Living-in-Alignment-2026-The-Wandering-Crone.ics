@@ -469,4 +469,13 @@ DESCRIPTION:Jupiter turns retrograde. Review confidence and
   leadership. Ask: Where does my light belong?
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY: ☀️ Sun enters Aquarius ♒
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260218
+DESCRIPTION: Attention moves toward innovation, community, and new ways of thinking. Notice where change is asking to be integrated thoughtfully.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
