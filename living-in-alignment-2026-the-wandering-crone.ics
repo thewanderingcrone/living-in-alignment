@@ -1,0 +1,592 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Wandering Crone//Living in Alignment 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Living in Alignment
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:fafd0d86-413e-4924-b416-c8bd8d3b16b6@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌞 Spring Equinox
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+DESCRIPTION:Seasonal Gate. Balance point as light begins to grow. Ask:
+  What am I choosing to grow from here? Ritual: Mark the moment
+  intentionally.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4c193468-5f0a-4331-92f2-366fd66290df@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌞 Summer Solstice
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:Seasonal Gate. Peak light and vitality. Ask: What feels
+  fully alive right now? Ritual: Offer gratitude to what is flourishing.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8c29b05a-8507-4398-9b1a-57eb778b5af3@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌞 Autumn Equinox
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:Seasonal Gate. Balance and simplification. Ask: What stays
+  in harmony as I release what no longer fits? Ritual: Let one thing go.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:309a117f-626e-45a7-a6d2-d6b59b8b92ee@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌞 Winter Solstice
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DESCRIPTION:Seasonal Gate. Deep stillness and renewal. Ask: What am I
+  carrying into the next cycle? Ritual: Light a candle for what remains.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52ebf52f-ef67-4813-929a-3b1a05c73f1e@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Cancer
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+DESCRIPTION:Full Moon. Emotional clarity and completion. Ask: What is
+  ready to be released with care? Ritual: Honor what you’re letting go
+  of.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d6cc8a-f115-487c-b6da-406b49ee05a7@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Capricorn
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+DESCRIPTION:New Moon. Grounded intentions and structure. Ask: What
+  commitment am I willing to tend consistently? Ritual: Set one
+  practical intention.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c097ffe5-03e0-43fe-a097-9cdd60872b18@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Leo
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+DESCRIPTION:Full Moon. Creative confidence and self-expression. Ask:
+   What still lights me up? Ritual: Celebrate yourself honestly.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97d64569-30d8-470d-b48c-2d00f34768f5@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 Solar Eclipse in Aquarius
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+DESCRIPTION:Eclipse. Shifts in belonging and future direction. Ask:
+  What communities support my alignment? Ritual: Observe rather than
+  force.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9617b2dc-4de5-4e64-a7d8-1508a1c6efee@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Lunar Eclipse in Virgo
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+DESCRIPTION:Eclipse. Systems and habits come into focus. Ask: What
+  routines truly support me now? Ritual: Release perfectionism.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:39d6c3cb-7756-4feb-8a0c-8b8edb57eb9c@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Pisces
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+DESCRIPTION:New Moon. Inner reset and intuition. Ask: What am I
+  choosing to carry forward gently? Ritual: Rest and reflect.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8751d96-a70b-43a9-b283-3d66b145ca83@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Libra
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DESCRIPTION:Full Moon. Relationship balance and truth. Ask: What feels
+  mutually aligned? Ritual: Name one boundary or request.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9793e7f-a8b6-42a6-85a0-51a95439601b@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Aries
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+DESCRIPTION:New Moon. Initiation and courage. Ask: What path am I
+  ready to claim? Ritual: Take one brave step.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9f422c-d964-4c4c-8d10-4335f0b4b78b@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Scorpio
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DESCRIPTION:Full Moon. Deep release and transformation. Ask: What am I
+  ready to compost into wisdom? Ritual: Let go intentionally.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f05bd7-fa2d-48b8-954f-9bee83201cd2@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Taurus
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DESCRIPTION:New Moon. Stability and worth. Ask: What is worth
+  sustaining long term? Ritual: Ground into the body or earth.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2868beff-d930-4a32-8da4-d267002e27ac@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Sagittarius
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+DESCRIPTION:Full Moon. Truth and belief illumination. Ask: What truth
+  still guides me forward? Ritual: Release outdated stories.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be70bece-4777-4ae2-a4f4-24424fb6220c@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Gemini
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+DESCRIPTION:New Moon. Mental renewal and curiosity. Ask: Which ideas
+  deserve my energy? Ritual: Write one intention.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69bb2a60-80eb-41b1-8279-45d202b5a17f@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Capricorn
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:Full Moon. Results and responsibility. Ask: What effort
+  has been worth it? Ritual: Acknowledge progress.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c8226cf7-ec76-4fd8-8516-7643c92d97a3@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Cancer
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+DESCRIPTION:New Moon. Emotional nourishment. Ask: What feels like home
+  now? Ritual: Care for yourself gently.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:647510c0-a565-43e7-b5f7-a9a00a37aea2@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Aquarius
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+DESCRIPTION:Full Moon. Perspective and clarity. Ask: What future
+  vision still resonates? Ritual: Detach from noise.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afd48cd5-2575-47d4-b4b1-21522b7c9d1b@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 Solar Eclipse in Leo
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DESCRIPTION:Eclipse. Identity and creativity reset. Ask: Where am I
+  ready to express authentically? Ritual: Let it unfold.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34e80128-f813-4306-a850-10ecd08c8b2d@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Lunar Eclipse in Pisces
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DESCRIPTION:Eclipse. Emotional endings and compassion. Ask: What am I
+  ready to forgive or release? Ritual: Rest deeply.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f8a3512-ea8b-4974-9b16-531ce9281323@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Virgo
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DESCRIPTION:New Moon. Refinement and integrity. Ask: What supports my
+  alignment daily? Ritual: Simplify one area.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c33def61-0b81-42d5-988c-cef1f45b5655@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Aries
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:Full Moon. Action and desire. Ask: What move still feels
+  true? Ritual: Ground before acting.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f29d93d4-985b-4cde-9ddb-4c2a7a9c73a4@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Libra
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:New Moon. Relationship reset. Ask: What standards keep me
+  aligned? Ritual: Clarify values.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2edf1aca-daa9-48a1-a115-5428d791ae05@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Taurus
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:Full Moon. Stability and embodiment. Ask: What brings real
+  security? Ritual: Listen to your body.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d67781b7-4d20-47e9-8a13-339b13e54579@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Scorpio
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:New Moon. Deep renewal. Ask: What transformation am I
+  choosing to keep? Ritual: Reflect quietly.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34876467-3630-41e4-865e-4c32faeeb6d5@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Gemini
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DESCRIPTION:Full Moon. Communication and clarity. Ask: What narrative
+  am I rewriting? Ritual: Speak truthfully.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7964fbf2-4dc8-4551-897f-807abc761217@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌑 New Moon in Sagittarius
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DESCRIPTION:New Moon. Vision and meaning. Ask: What belief carries me
+  forward? Ritual: Name your guiding truth.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89bae69a-55b0-49c0-aae2-19edde4c1afb@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:🌕 Full Moon in Cancer
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DESCRIPTION:Full Moon. Closure and belonging. Ask: What truly stays in
+  my heart? Ritual: Express gratitude.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47055336-f57f-46a2-8320-15b8babfac74@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:☿ Mercury stations retrograde (Pisces)
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+DESCRIPTION:Mercury turns retrograde. Slow communication and
+  decisions. Ask: What becomes clear when I pause?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c91228c5-0fbe-4fe6-8c1e-1b62d9b0024e@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:☿ Mercury stations direct (Pisces)
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+DESCRIPTION:Mercury stations direct. Clarity returns gradually. Ask:
+  What did I learn from slowing down?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d452c60f-89c2-45c0-aa1a-84f478ba5b77@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:☿ Mercury stations retrograde (Cancer)
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:Mercury turns retrograde. Emotional conversations
+  resurface. Ask: What needs care, not reaction?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:84adf7de-df63-4c90-846e-fef7699aab5a@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:☿ Mercury stations direct (Cancer)
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+DESCRIPTION:Mercury stations direct. Communication steadies. Ask: What
+  truth can I now express gently?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d27e14e-814d-4632-a87d-c19861667810@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:☿ Mercury stations retrograde (Scorpio)
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:Mercury turns retrograde. Truth and trust are reviewed.
+  Ask: What honesty still aligns?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:079ad42a-91bb-43fc-b776-8315febf4d9c@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:☿ Mercury stations direct (Libra)
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DESCRIPTION:Mercury stations direct. Decisions soften and clarify.
+  Ask: What agreements support harmony?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf29459-d1d9-48df-b46d-b12ef3cf0048@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♀ Venus stations retrograde (Scorpio)
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:Venus turns retrograde. Values and relationships
+  reassessed. Ask: What still feels true?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:661e6f29-da05-4c43-8885-c3b8ebe2220a@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♀ Venus stations direct (Libra)
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DESCRIPTION:Venus stations direct. Clarity returns in love and values.
+  Ask: What am I choosing to keep?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:134610fb-ddfa-4123-87c8-8e47bdb3a701@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♃ Jupiter stations direct (Cancer)
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+DESCRIPTION:Jupiter stations direct. Growth moves outward again. Ask:
+  Which belief am I ready to live?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:efb654c8-704a-4bb5-8a5b-ed87d5918da9@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♇ Pluto stations retrograde (Aquarius)
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DESCRIPTION:Pluto turns retrograde. Inner transformation deepens. Ask:
+  What shadow am I integrating?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3527c9-12ec-4d8d-b186-c36ea82036bd@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♇ Pluto stations direct (Aquarius)
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DESCRIPTION:Pluto stations direct. Power becomes actionable. Ask: What
+  am I choosing to lead from?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0426103-cad3-49ee-8996-3f151111bfe2@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♆ Neptune stations retrograde (Aries)
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+DESCRIPTION:Neptune turns retrograde. Discern intuition from illusion.
+  Ask: What inner knowing remains true?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88984c27-c3f2-4a33-b989-ea28df3e6dff@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♆ Neptune stations direct (Aries)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DESCRIPTION:Neptune stations direct. Spiritual clarity strengthens.
+  Ask: What vision is worth acting on?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d3ca6e-1851-4197-9f7c-6ddbaeeede45@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♄ Saturn stations retrograde (Aries)
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DESCRIPTION:Saturn turns retrograde. Commitments and boundaries
+  refine. Ask: What responsibility is truly mine?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a6a359c-b3db-45c9-af13-36b18a1a11bc@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♄ Saturn stations direct (Aries)
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DESCRIPTION:Saturn stations direct. Discipline steadies. Ask: What
+  structure supports my alignment?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5bab5ffa-af71-4e06-a4cc-a1c98f1e0cf0@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♅ Uranus stations retrograde (Gemini)
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DESCRIPTION:Uranus turns retrograde. Innovation turns inward. Ask:
+  What change supports real freedom?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
+DTSTAMP:20260113T215225Z
+SUMMARY:♃ Jupiter stations retrograde (Leo)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DESCRIPTION:Jupiter turns retrograde. Review confidence and
+  leadership. Ask: Where does my light belong?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-enters-aquarius-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Aquarius
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+DESCRIPTION:Attention moves toward innovation, community, and new ways of thinking. Notice where change is asking to be integrated thoughtfully.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-pisces-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Pisces
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+DESCRIPTION:Energy softens toward rest, reflection, and intuition. Allow space for integration before the next cycle begins.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-aries-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Aries
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+DESCRIPTION:Energy shifts toward initiation, momentum, and forward movement. This is a good time to begin what you’re ready to take responsibility for.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-taurus-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Taurus
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+DESCRIPTION:Focus moves to stability, resources, and sustainability. Slow down and tend what you want to last.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-gemini-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Gemini
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+DESCRIPTION:Attention turns toward communication, learning, and movement. Stay curious, gather information, and notice where flexibility is needed.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-cancer-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Cancer
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:Emphasis shifts to emotional awareness, home, and care. Prioritize what helps you feel safe, nourished, and supported.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-leo-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Leo
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DESCRIPTION:Energy moves toward self-expression, creativity, and visibility. Lead with authenticity and notice where you’re ready to take up space.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-virgo-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Virgo
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DESCRIPTION:Focus sharpens around organization, health, and refinement. This is a practical time to adjust routines and improve what’s already in motion.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-libra-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Libra
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DESCRIPTION:Attention turns to balance, relationships, and shared decisions. Consider where recalibration and mutual understanding are needed.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-scorpio-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Scorpio
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:Energy deepens around transformation, truth, and emotional intensity. Pay attention to what’s asking to be released or reworked.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-sagittarius-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Sagittarius
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DESCRIPTION:Focus expands toward meaning, perspective, and exploration. Step back to see the bigger picture and reconnect with what inspires you.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-capricorn-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Capricorn
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DESCRIPTION:Emphasis shifts to structure, responsibility, and long-term goals. This is a time to commit to what you’re building steadily over time.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+END:VCALENDAR
