@@ -470,102 +470,123 @@ DESCRIPTION:Jupiter turns retrograde. Review confidence and
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Aquarius ♒
-DTSTART;VALUE=DATE:20260120
-DTEND;VALUE=DATE:20260121
-DESCRIPTION: Attention moves toward innovation, community, and new ways of thinking. Notice where change is asking to be integrated thoughtfully.
+UID:sun-enters-aquarius-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Aquarius
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+DESCRIPTION:Attention moves toward innovation, community, and new ways of thinking. Notice where change is asking to be integrated thoughtfully.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Aries ♈
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
-DESCRIPTION: Energy shifts toward initiation, momentum, and forward movement. This is a good time to begin what you’re ready to take responsibility for.
+UID:sun-enters-pisces-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Pisces
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+DESCRIPTION:Energy softens toward rest, reflection, and intuition. Allow space for integration before the next cycle begins.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Taurus ♉
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-DESCRIPTION: Focus moves to stability, resources, and sustainability. Slow down and tend what you want to last.
+UID:sun-enters-aries-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Aries
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+DESCRIPTION:Energy shifts toward initiation, momentum, and forward movement. This is a good time to begin what you’re ready to take responsibility for.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Gemini ♊
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-DESCRIPTION: Attention turns toward communication, learning, and movement. Stay curious, gather information, and notice where flexibility is needed.
+UID:sun-enters-taurus-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Taurus
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DESCRIPTION:Focus moves to stability, resources, and sustainability. Slow down and tend what you want to last.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Cancer ♋
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-DESCRIPTION: Emphasis shifts to emotional awareness, home, and care. Prioritize what helps you feel safe, nourished, and supported.
+UID:sun-enters-gemini-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Gemini
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+DESCRIPTION:Attention turns toward communication, learning, and movement. Stay curious, gather information, and notice where flexibility is needed.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Leo ♌
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION: Energy moves toward self-expression, creativity, and visibility. Lead with authenticity and notice where you’re ready to take up space.
+UID:sun-enters-cancer-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Cancer
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:Emphasis shifts to emotional awareness, home, and care. Prioritize what helps you feel safe, nourished, and supported.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Virgo ♍
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION: Focus sharpens around organization, health, and refinement. This is a practical time to adjust routines and improve what’s already in motion.
+UID:sun-enters-leo-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Leo
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DESCRIPTION:Energy moves toward self-expression, creativity, and visibility. Lead with authenticity and notice where you’re ready to take up space.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Libra ♎
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DESCRIPTION: Attention turns to balance, relationships, and shared decisions. Consider where recalibration and mutual understanding are needed.
+UID:sun-enters-virgo-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Virgo
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:Focus sharpens around organization, health, and refinement. This is a practical time to adjust routines and improve what’s already in motion.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Scorpio ♏
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION: Energy deepens around transformation, truth, and emotional intensity. Pay attention to what’s asking to be released or reworked.
+UID:sun-enters-libra-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Libra
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:Attention turns to balance, relationships, and shared decisions. Consider where recalibration and mutual understanding are needed.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Sagittarius ♐
+UID:sun-enters-scorpio-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Scorpio
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:Energy deepens around transformation, truth, and emotional intensity. Pay attention to what’s asking to be released or reworked.
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sun-enters-sagittarius-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Sagittarius
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DESCRIPTION: Focus expands toward meaning, perspective, and exploration. Step back to see the bigger picture and reconnect with what inspires you.
+DESCRIPTION:Focus expands toward meaning, perspective, and exploration. Step back to see the bigger picture and reconnect with what inspires you.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:74c53440-b5cb-42d6-80fc-c60f0c1eeb7c@wanderingcrone
-DTSTAMP:20260113T215225Z
-SUMMARY: ☀️ Sun enters Capricorn ♑
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-DESCRIPTION: Emphasis shifts to structure, responsibility, and long-term goals. This is a time to commit to what you’re building steadily over time.
+UID:sun-enters-capricorn-2026@thewanderingcrone
+DTSTAMP:20260116T000000Z
+SUMMARY:Sun enters Capricorn
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DESCRIPTION:Emphasis shifts to structure, responsibility, and long-term goals. This is a time to commit to what you’re building steadily over time.
 TRANSP:TRANSPARENT
 END:VEVENT
+
 END:VCALENDAR
